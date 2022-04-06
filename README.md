@@ -14,3 +14,14 @@
 # CSS Float Property
 <br>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 ![p](gambar/ss2.png)
+<br>Kemudian buka browser untuk melihat hasilnya.
+![p](gambar/ss3.png)
+
+# Mengatur Clearfix Element
+<br>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
+<p>Tambahkan element div lainnya setelah div3 seperti berikut.
+![p](gambar/ss4.png)
+<br>Kemudian atur property clear pada CSS, seperti berikut.
+![p](gambar/ss5.png)
+<br>Selanjutnya buka browser dan refresh kembali.
+![p](gambar/ss6.png)
