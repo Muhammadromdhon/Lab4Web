@@ -10,5 +10,4 @@
 # Membuat Box Element
 <br>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 ![p](gambar/ss1.png)
-
 # CSS Float Property
